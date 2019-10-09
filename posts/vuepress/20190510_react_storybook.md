@@ -46,6 +46,8 @@ ERR!     at require (internal/module.js:11:18)...
 
 https://github.com/storybookjs/storybook/issues/6984
 
+`yarn add -D core-js@^2.5.7`した後に`yarn run start`したらうまくいった
+
 ```bash
 $ yarn add -D core-js@^2.5.7
 $ yarn storybook
